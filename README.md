@@ -3,7 +3,6 @@
 This repository contains a Jupyter notebook providing a foundational guide to essential evaluation metrics for Artificial Intelligence (AI) outputs. It covers practical implementations for both **labeling (classification)** and **text generation** tasks.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
 - [Key Evaluation Metrics](#key-evaluation-metrics)
     - [Classification (Labeling)](#1-classification-labeling)
     - [Text Generation](#2-text-generation)
@@ -11,16 +10,14 @@ This repository contains a Jupyter notebook providing a foundational guide to es
 - [Usage](#usage)
 - [Future Work](#future-work)
 
-## 📖 Overview
-Evaluating Large Language Models (LLMs) is critical for ensuring accuracy and reliability. This notebook provides a hands-on approach to calculating standard metrics using Python, helping developers and researchers quantify the performance of their AI models.
+
 
 ## 🧪 Key Evaluation Metrics
 
 ### 1. Classification (Labeling)
 For tasks where the model categorizes or labels data, the notebook demonstrates:
 * **Precision, Recall, and F1-Score**: Core statistical measures to assess classification accuracy.
-* **Confusion Matrix**: A visualization tool used to compare predicted classifications against actual ground truth.
-
+* **Confusion Matrix**: A visualization tool used to compare predicted classifications against actual ground truth
 
 
 ### 2. Text Generation
