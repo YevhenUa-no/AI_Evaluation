@@ -7,9 +7,6 @@ This repository contains a Jupyter notebook providing a foundational guide to es
     - [Classification (Labeling)](#1-classification-labeling)
     - [Text Generation](#2-text-generation)
 - [Installation & Dependencies](#installation--dependencies)
-- [Usage](#usage)
-- [Future Work](#future-work)
-
 
 
 ## 🧪 Key Evaluation Metrics
