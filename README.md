@@ -31,3 +31,6 @@ To run the evaluation examples, you will need to install the following Python pa
 
 ```bash
 pip install scikit-learn nltk rouge-score bert-score
+
+
+## You also need OpenAI API key to run some parts of code. 
